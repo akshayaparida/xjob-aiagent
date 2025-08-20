@@ -1,0 +1,10 @@
+{
+    "venvPath": "backend",
+    "venv": "venv",
+    "pythonPath": "backend/venv/bin/python",
+    "include": ["backend"],
+    "exclude": ["**/node_modules", "**/__pycache__"],
+    "reportMissingImports": "warning",
+    "reportMissingTypeStubs": false
+}
+
